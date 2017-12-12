@@ -45,3 +45,4 @@ count=0;
 printf(" \t %d \t %d \n",drop,count);
 }
 return 0;
+}
